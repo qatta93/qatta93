@@ -7,7 +7,7 @@ Passionate about frontend development and UX/UI. I have started learning coding 
 As I am an <b>architect</b> - I know 3D modeling, design tools and have aesthetic sense. <b>Civil engineering</b> taught me how to solve problems and think analytically. I love psychology and self-development. I am a traveler who has seen many faces of humanity and can be empathetic, which helps in UX designing.
 
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
 const patrycja = {
