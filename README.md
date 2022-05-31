@@ -1,6 +1,6 @@
 <h2> Hi, I'm Patrycja Panasiuk! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<i>Developer Consultant at <a href="https://www.salt.dev/">Salt</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </i>
+<i>Full-Stack JavaScript Developer Consultant at <a href="https://www.salt.dev/">Salt</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </i>
 </br>
 </br>
 
