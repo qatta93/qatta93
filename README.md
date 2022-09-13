@@ -13,7 +13,7 @@ As I am an <b>architect</b> - I know 3D modeling, design tools and have aestheti
 ```javascript
 const patrycja = {
   pronouns: "she" | "her",
-  frontend: [Javascript, Typescript, HTML, CSS, Next.js, React, Redux],
+  frontend: [Javascript, Typescript, HTML, CSS, Next.js, React, Redux, Tailwind, Styled Components],
   backend: [Node.js, Express.js, MongoDB, PostgreSQL],
   tools & technologies: [Figma, AdobeXD, Heroku, Vercel, Docker, Adobe, Jest, Github Actions, Mocha, Postman, VS Code],
 }
